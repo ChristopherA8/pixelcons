@@ -2,4 +2,4 @@
 
 Pixelate App Icons!
 
-<img src="https://chr1s.dev/assets/pixelcons.png" width="200px">
+<img src="https://chr1s.dev/assets/pixelconsE.png" width="200px">
